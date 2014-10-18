@@ -54,7 +54,7 @@ if (!file.exists("./activity_data.zip")) {
 ```
 
 ```
-## [1] "Sat Oct 18 16:08:40 2014"
+## [1] "Sat Oct 18 16:17:24 2014"
 ```
 *Read and Transform Data*  
 Data is read and the structure of the data frame is displayed.
